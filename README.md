@@ -2,6 +2,8 @@
 
 A small, runnable companion to Michael Jamieson’s **D3 Drill-Down Sunburst: Click, Zoom, and Go Back** tutorial. The code stays beside the live chart so you can explore what each part does.
 
+[Watch the complete tutorial on YouTube](https://www.youtube.com/watch?v=dPHyKLzxrnw).
+
 ![The complete program beside its interactive sunburst chart](docs/preview.png)
 
 ## Run it
